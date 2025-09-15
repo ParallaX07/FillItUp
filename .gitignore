@@ -1,0 +1,9 @@
+# pnpm store dirs (workspace specific files are fine)
+node_modules/
+
+# web-ext artifacts
+web-ext-artifacts/
+.amo-upload-uuid
+
+# local secrets
+.env
